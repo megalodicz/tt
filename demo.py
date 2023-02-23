@@ -5,9 +5,19 @@ from sklearn.linear_model import LogisticRegression
 import numpy as np
 import time as t
 import joblib
-
-
-
+st.markdown(
+        f"""
+               <style>
+               .stApp {{
+                   background-image: url("https://wallpapers.com/images/hd/cool-farming-2h6bdpacz65uo7eb.jpg");
+                   background-attachment: fixed;
+                   background-size: cover;
+                   /* opacity: 0.3; */
+               }}
+               </style>
+               """,
+        unsafe_allow_html=True
+)
 
 
 
